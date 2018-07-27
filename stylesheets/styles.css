@@ -1,0 +1,11 @@
+body {
+    background-image: url('../images/background.jpg');
+    color: white;
+}
+
+.github {
+    position: absolute;
+    top: 0;
+    right: 0;
+    height: 20vh;
+  }
