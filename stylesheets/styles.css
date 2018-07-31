@@ -7,5 +7,32 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    height: 20vh;
+    height: 15vh;
   }
+
+  h2 {
+      text-align: center;
+  }
+
+  .link {
+      text-align: center;
+      align-content: center;
+      margin-left: 0;
+      margin-right: 0;
+  }
+
+#map {
+    height: 250px;
+    width: 50vw;
+}
+
+.container {
+    margin-top: 5vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.instagram {
+    height: 33vh;
+}
