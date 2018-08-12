@@ -3,6 +3,34 @@ body {
     color: white;
 }
 
+.full-screen {
+    display: none;
+}
+
+.social-link {
+    width: 80vh;
+}
+
+.mobile {
+    margin-top: 0;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    height: 100%;
+    width: 100%;
+    position: fixed;
+}
+
+@media (min-width: 800px) {
+
+.mbl {
+    display: none;
+}
+
+.mobile {
+    display: none;
+}
+
 .github {
     position: absolute;
     top: 0;
@@ -35,4 +63,6 @@ body {
 
 .instagram {
     height: 33vh;
+}
+
 }
