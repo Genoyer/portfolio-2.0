@@ -1,0 +1,28 @@
+.navbar {
+    background-color: white;
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    color: black;
+}
+
+body {
+    background-image: url('../images/background.jpg');
+    color: white;
+}
+
+.twitter-timeline {
+    height: 100vh;
+}
+
+.portfolio-item {
+    margin-top: 10vh;
+}
+
+.navbar-toggler-icon {
+    background-color: green;
+}
